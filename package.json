@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SAOJulius/speedtest#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "chartjs": "^0.3.24",
+    "express": "^4.17.3",
+    "network-speed": "^2.1.1"
   }
 }
